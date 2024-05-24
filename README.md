@@ -38,7 +38,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Clone This Project `git clone https://github.com/mahmud-sajib/ReactJs-Online-Store.git`
 3. Navigate to project directory `cd ReactJs-Online-Store`
 4. Install node modules `npm install`
-5. Finally Run The Project `npm start`
+5. npm update postcss postcss-safe-parser
+6. Finally Run The Project `npm start`
+7. npm install --save gh-pages
 
 ## Project Demo
 
