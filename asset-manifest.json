@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Online-Store/static/css/main.24eb4c3a.chunk.css",
+    "main.js": "/ReactJs-Online-Store/static/js/main.ea9c815e.chunk.js",
+    "main.js.map": "/ReactJs-Online-Store/static/js/main.ea9c815e.chunk.js.map",
+    "runtime-main.js": "/ReactJs-Online-Store/static/js/runtime-main.8a4aade3.js",
+    "runtime-main.js.map": "/ReactJs-Online-Store/static/js/runtime-main.8a4aade3.js.map",
+    "static/js/2.eea510b5.chunk.js": "/ReactJs-Online-Store/static/js/2.eea510b5.chunk.js",
+    "static/js/2.eea510b5.chunk.js.map": "/ReactJs-Online-Store/static/js/2.eea510b5.chunk.js.map",
+    "index.html": "/ReactJs-Online-Store/index.html",
+    "static/css/main.24eb4c3a.chunk.css.map": "/ReactJs-Online-Store/static/css/main.24eb4c3a.chunk.css.map",
+    "static/js/2.eea510b5.chunk.js.LICENSE.txt": "/ReactJs-Online-Store/static/js/2.eea510b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a4aade3.js",
+    "static/js/2.eea510b5.chunk.js",
+    "static/css/main.24eb4c3a.chunk.css",
+    "static/js/main.ea9c815e.chunk.js"
+  ]
+}
